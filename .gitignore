@@ -1,0 +1,5 @@
+
+.vs/
+CRUD_mvc_entity_framework/obj/
+CRUD_mvc_entity_framework/bin/
+appsettings.Development.json
